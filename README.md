@@ -1,6 +1,7 @@
 # Software_engineering
 Empty project for trainining git
 ## Table
-| Left left  | Right right |
-| nemam rad |ne|
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+|
 
