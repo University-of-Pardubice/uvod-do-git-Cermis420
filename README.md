@@ -1,5 +1,8 @@
 # Software_engineering
 Empty project for trainining git
 ## Table
-| left left | right right |
-| will this | work or not |
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
